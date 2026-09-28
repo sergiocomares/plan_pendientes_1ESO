@@ -1,0 +1,8 @@
+{
+  "documentos": [
+    { "titulo": "Programa de recuperación", "descripcion": "Añade el documento oficial del centro.", "url": "" },
+    { "titulo": "Criterios de evaluación", "descripcion": "Añade los criterios de evaluación aplicables.", "url": "" },
+    { "titulo": "Calendario de pruebas", "descripcion": "Añade las fechas cuando estén confirmadas.", "url": "" },
+    { "titulo": "Instrucciones y fichas", "descripcion": "Añade documentos y fichas para el alumnado.", "url": "" }
+  ]
+}

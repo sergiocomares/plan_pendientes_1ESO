@@ -1,0 +1,49 @@
+[
+  { "bloqueId": "naturales", "items": [
+    { "titulo": "Operaciones con números naturales | Matemáticas, 1.º ESO", "descripcion": "Repaso de operaciones con números naturales con ejemplos.", "youtubeId": "zWAoNqzBxXU", "canal": "eduboom es" },
+    { "titulo": "Jerarquía de operaciones: multiplicar antes que sumar | Matemáticas 1.º ESO", "descripcion": "Practica el orden de las operaciones combinadas.", "youtubeId": "KS2v3AKP_ao", "canal": "BBYDigital" }
+  ] },
+  { "bloqueId": "divisibilidad", "items": [
+    { "titulo": "Criterios de divisibilidad", "descripcion": "Explicación de criterios de divisibilidad con ejemplos.", "youtubeId": "JO_SRpmojdM", "canal": "Daniel Carreón" },
+    { "titulo": "Cómo hallar los múltiplos y divisores de un número", "descripcion": "Aprende a encontrar múltiplos y divisores paso a paso.", "youtubeId": "jifqWoTSK6o", "canal": "Clases Particulares en Ávila" },
+    { "titulo": "Descomponer números en factores primos", "descripcion": "Descomposición guiada en factores primos.", "youtubeId": "IweL5mrwsNg", "canal": "Susi Profe" },
+    { "titulo": "Mínimo común múltiplo y máximo común divisor", "descripcion": "Cómo calcular el m.c.m. y el m.c.d. con ejemplos.", "youtubeId": "4Vrqghvp2j8", "canal": "Clases Particulares en Ávila" }
+  ] },
+  { "bloqueId": "enteros", "items": [
+    { "titulo": "Suma y resta de números enteros", "descripcion": "Practica sumas y restas de enteros con el método debo y tengo.", "youtubeId": "dayfz0ff1Mc", "canal": "Daniel Carreón" },
+    { "titulo": "Multiplicación y división de números enteros: regla de los signos", "descripcion": "Repasa la regla de los signos con ejemplos.", "youtubeId": "-ngjIgOKwlk", "canal": "Susi Profe" },
+    { "titulo": "Operaciones combinadas con números enteros y paréntesis", "descripcion": "Resuelve operaciones combinadas paso a paso.", "youtubeId": "CB7CWWiaUbA", "canal": "Susi Profe" }
+  ] },
+  { "bloqueId": "fracciones", "items": [
+    { "titulo": "Sumar y restar fracciones: método mariposa", "descripcion": "Explicación de la suma y resta de fracciones.", "youtubeId": "m9fnZ4kHhy4", "canal": "Susi Profe" },
+    { "titulo": "Multiplicación y división de fracciones (1.º ESO)", "descripcion": "Practica las operaciones de multiplicación y división de fracciones.", "youtubeId": "soCxtpDeI1U", "canal": "Aprendemates" },
+    { "titulo": "Todas las operaciones con fracciones desde cero", "descripcion": "Repaso completo de las operaciones con fracciones.", "youtubeId": "KVO69jh2aBQ", "canal": "Susi Profe" }
+  ] },
+  { "bloqueId": "decimales", "items": [
+    { "titulo": "Números decimales: introducción", "descripcion": "Repasa el valor posicional y la lectura de los números decimales.", "youtubeId": "THhBxyOAgp8", "canal": "Susi Profe" },
+    { "titulo": "Suma y resta de números decimales", "descripcion": "Alinea las comas y calcula operaciones con decimales.", "youtubeId": "0NNshc96lDY", "canal": "Susi Profe" },
+    { "titulo": "División de números decimales", "descripcion": "Proceso y comprobación de divisiones con decimales.", "youtubeId": "tcCojLIto2g", "canal": "Susi Profe" }
+  ] },
+  { "bloqueId": "proporcionalidad", "items": [
+    { "titulo": "Problema de proporcionalidad directa: regla de tres", "descripcion": "Resuelve una situación de proporcionalidad directa paso a paso.", "youtubeId": "n9hBk3IVdyg", "canal": "Susi Profe" },
+    { "titulo": "Cómo calcular el tanto por ciento", "descripcion": "Calcula porcentajes de una cantidad con ejemplos.", "youtubeId": "gM9BAOBeTKg", "canal": "Susi Profe" },
+    { "titulo": "Aumentos porcentuales", "descripcion": "Aplica porcentajes para calcular aumentos.", "youtubeId": "RAHBIReMZdE", "canal": "Susi Profe" }
+  ] },
+  { "bloqueId": "algebra", "items": [
+    { "titulo": "Traducir al lenguaje algebraico", "descripcion": "Convierte frases y problemas en expresiones algebraicas.", "youtubeId": "E0ltYOOQTC4", "canal": "Susi Profe" },
+    { "titulo": "Ecuaciones de primer grado básicas", "descripcion": "Resuelve ecuaciones sencillas de primer grado.", "youtubeId": "CN4n6Tfc5WI", "canal": "Susi Profe" }
+  ] },
+  { "bloqueId": "geometria", "items": [
+    { "titulo": "Áreas y perímetros", "descripcion": "Repasa cómo calcular perímetros y áreas de figuras planas.", "youtubeId": "wYNvY_bOGdc", "canal": "Daniel Carreón" },
+    { "titulo": "Perímetro de figuras: guía para empezar", "descripcion": "Calcula el contorno de figuras geométricas sencillas.", "youtubeId": "OTT8SKMdBD8", "canal": "Daniel Carreón" }
+  ] },
+  { "bloqueId": "funciones", "items": [
+    { "titulo": "El plano cartesiano", "descripcion": "Localiza puntos y aprende a leer las coordenadas del plano.", "youtubeId": "kzOzYY-T-50", "canal": "Daniel Carreón" },
+    { "titulo": "Coordenadas cartesianas: ubicar puntos", "descripcion": "Practica la ubicación de puntos en el plano cartesiano.", "youtubeId": "g58qhPIYeyQ", "canal": "Susi Profe" },
+    { "titulo": "Interpretar gráficas: explicación y actividades", "descripcion": "Lee e interpreta información representada en gráficas.", "youtubeId": "IhTZGRKT_jY", "canal": "Aprendiendo Matemática" }
+  ] },
+  { "bloqueId": "estadistica", "items": [
+    { "titulo": "Media, moda y mediana", "descripcion": "Calcula e interpreta medidas estadísticas básicas.", "youtubeId": "CrItHF8aJ3M", "canal": "Susi Profe" },
+    { "titulo": "Probabilidad: explicación sencilla", "descripcion": "Introducción a la probabilidad de sucesos sencillos.", "youtubeId": "WeeEE8o1aqM", "canal": "Daniel Carreón" }
+  ] }
+]

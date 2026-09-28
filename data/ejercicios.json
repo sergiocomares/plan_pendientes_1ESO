@@ -1,0 +1,92 @@
+[
+  { "bloqueId": "naturales", "items": [
+    { "id": "nat-1", "nivel": 1, "tema": "Jerarquía de operaciones", "enunciado": "Calcula: 18 − 2 × 5", "solucion": "Primero la multiplicación: 18 − 10 = 8." },
+    { "id": "nat-2", "nivel": 2, "tema": "División", "enunciado": "Reparte 157 cromos entre 12 personas. ¿Cuántos recibe cada una y cuántos sobran?", "solucion": "157 : 12 = 13 y sobran 1, porque 12 × 13 + 1 = 157." },
+    { "id": "nat-3", "nivel": 3, "tema": "Problemas", "enunciado": "Una biblioteca recibe 8 cajas con 36 libros cada una y presta 97 libros. ¿Cuántos quedan?", "solucion": "8 × 36 − 97 = 288 − 97 = 191 libros." }
+  ], "autoevaluacion": [
+    { "pregunta": "¿Cuál es el resultado de 24 − 3 × 6?", "opciones": ["126", "6", "18"], "correcta": 1, "tema": "Jerarquía de operaciones", "recomendacion": "jerarquia" },
+    { "pregunta": "¿Qué igualdad comprueba 53 : 8 = 6 y resto 5?", "opciones": ["53 = 8 × 6 + 5", "53 = 8 × 5 + 6", "53 = 6 × 5 + 8"], "correcta": 0, "tema": "Divisiones", "recomendacion": "operaciones" },
+    { "pregunta": "¿Cuánto vale 2³?", "opciones": ["6", "8", "9"], "correcta": 1, "tema": "Potencias", "recomendacion": "potencias" }
+  ] },
+  { "bloqueId": "divisibilidad", "items": [
+    { "id": "div-1", "nivel": 1, "tema": "Criterios de divisibilidad", "enunciado": "¿Es 735 divisible por 3? Explica por qué.", "solucion": "Sí. La suma de sus cifras es 7 + 3 + 5 = 15, que es divisible por 3." },
+    { "id": "div-2", "nivel": 2, "tema": "Factores primos", "enunciado": "Descompón 60 en factores primos.", "solucion": "60 = 2 × 2 × 3 × 5 = 2² × 3 × 5." },
+    { "id": "div-3", "nivel": 3, "tema": "M.C.D. y m.c.m.", "enunciado": "Calcula el m.c.d. y el m.c.m. de 12 y 18.", "solucion": "12 = 2² × 3 y 18 = 2 × 3². m.c.d. = 2 × 3 = 6; m.c.m. = 2² × 3² = 36." }
+  ], "autoevaluacion": [
+    { "pregunta": "¿Cuál de estos números es divisible por 3?", "opciones": ["124", "735", "802"], "correcta": 1, "tema": "Criterios de divisibilidad", "recomendacion": "criterios" },
+    { "pregunta": "¿Cuál es la descomposición de 30 en factores primos?", "opciones": ["2 × 3 × 5", "3 × 10", "2 × 15"], "correcta": 0, "tema": "Factores primos", "recomendacion": "descomposicion" },
+    { "pregunta": "¿Cuál es el m.c.d. de 8 y 12?", "opciones": ["2", "4", "24"], "correcta": 1, "tema": "M.C.D. y m.c.m.", "recomendacion": "mcdmcm" }
+  ] },
+  { "bloqueId": "enteros", "items": [
+    { "id": "ent-1", "nivel": 1, "tema": "Comparar enteros", "enunciado": "Completa con > o <: −3 __ −7", "solucion": "−3 > −7. −3 está más cerca del cero y queda a su derecha en la recta numérica." },
+    { "id": "ent-2", "nivel": 2, "tema": "Suma y resta", "enunciado": "Calcula: (−8) + 3 − (−2)", "solucion": "−8 + 3 + 2 = −3." },
+    { "id": "ent-3", "nivel": 3, "tema": "Producto de enteros", "enunciado": "La temperatura era −4 °C y subió 9 grados. ¿Cuál es ahora?", "solucion": "−4 + 9 = 5 °C." }
+  ], "autoevaluacion": [
+    { "pregunta": "¿Cuál es mayor?", "opciones": ["−9", "−2", "Son iguales"], "correcta": 1, "tema": "Comparar enteros", "recomendacion": "recta" },
+    { "pregunta": "¿Cuánto es (−6) + 10?", "opciones": ["−16", "4", "−4"], "correcta": 1, "tema": "Suma y resta", "recomendacion": "suma-resta" },
+    { "pregunta": "¿Cuánto es (−3) × 4?", "opciones": ["12", "−12", "7"], "correcta": 1, "tema": "Multiplicar y dividir", "recomendacion": "producto" }
+  ] },
+  { "bloqueId": "fracciones", "items": [
+    { "id": "frac-1", "nivel": 1, "tema": "Fracciones equivalentes", "enunciado": "Escribe una fracción equivalente a 2/3 con denominador 12.", "solucion": "Multiplica numerador y denominador por 4: 2/3 = 8/12." },
+    { "id": "frac-2", "nivel": 2, "tema": "Suma de fracciones", "enunciado": "Calcula: 3/4 + 2/5", "solucion": "El denominador común es 20: 15/20 + 8/20 = 23/20 = 1 y 3/20." },
+    { "id": "frac-3", "nivel": 3, "tema": "Problemas con fracciones", "enunciado": "Una botella tiene 3/4 de litro. Se beben 2/3 de esa cantidad. ¿Cuánto se bebe?", "solucion": "Multiplica: 2/3 × 3/4 = 6/12 = 1/2 litro." }
+  ], "autoevaluacion": [
+    { "pregunta": "¿Cuál es equivalente a 2/3?", "opciones": ["3/4", "4/6", "2/6"], "correcta": 1, "tema": "Fracciones equivalentes", "recomendacion": "equivalentes" },
+    { "pregunta": "¿Cuánto es 1/4 + 1/2?", "opciones": ["2/6", "3/4", "2/4"], "correcta": 1, "tema": "Suma de fracciones", "recomendacion": "sumar-restar" },
+    { "pregunta": "¿Cuánto es 2/3 × 3/5?", "opciones": ["2/5", "5/8", "6/8"], "correcta": 0, "tema": "Operaciones con fracciones", "recomendacion": "multiplicar" }
+  ] },
+  { "bloqueId": "decimales", "items": [
+    { "id": "dec-1", "nivel": 1, "tema": "Comparar decimales", "enunciado": "Ordena de menor a mayor: 3,08; 3,8; 3,18.", "solucion": "3,08 < 3,18 < 3,8. Puedes escribir 3,8 como 3,80 para comparar." },
+    { "id": "dec-2", "nivel": 2, "tema": "Suma de decimales", "enunciado": "Calcula: 12,5 + 3,78.", "solucion": "12,50 + 3,78 = 16,28." },
+    { "id": "dec-3", "nivel": 3, "tema": "Problemas con decimales", "enunciado": "Una cinta mide 2,4 m. Se cortan 3 trozos de 0,75 m. ¿Cuánto queda?", "solucion": "Se cortan 3 × 0,75 = 2,25 m. Quedan 2,4 − 2,25 = 0,15 m." }
+  ], "autoevaluacion": [
+    { "pregunta": "¿Cuál es mayor: 3,4 o 3,39?", "opciones": ["3,4", "3,39", "Son iguales"], "correcta": 0, "tema": "Comparar decimales", "recomendacion": "comparar-redondear" },
+    { "pregunta": "¿Cuánto es 1,2 × 0,3?", "opciones": ["0,36", "3,6", "0,036"], "correcta": 0, "tema": "Multiplicar decimales", "recomendacion": "multiplicar" },
+    { "pregunta": "¿Cuánto es 4,2 : 0,6?", "opciones": ["6", "7", "70"], "correcta": 1, "tema": "Dividir decimales", "recomendacion": "dividir" }
+  ] },
+  { "bloqueId": "proporcionalidad", "items": [
+    { "id": "prop-1", "nivel": 1, "tema": "Proporcionalidad directa", "enunciado": "Si 3 kg de manzanas cuestan 9 €, ¿cuánto cuestan 5 kg al mismo precio por kilo?", "solucion": "Un kilo cuesta 9 : 3 = 3 €. Cinco kilos cuestan 5 × 3 = 15 €." },
+    { "id": "prop-2", "nivel": 2, "tema": "Porcentaje de una cantidad", "enunciado": "Calcula el 25 % de 80.", "solucion": "80 × 25 : 100 = 20." },
+    { "id": "prop-3", "nivel": 3, "tema": "Descuentos", "enunciado": "Una mochila cuesta 60 € y tiene un descuento del 10 %. ¿Cuál es el precio final?", "solucion": "El 10 % de 60 es 6 €. Precio final: 60 − 6 = 54 €." }
+  ], "autoevaluacion": [
+    { "pregunta": "Si 2 cuadernos cuestan 6 €, ¿cuánto cuestan 5 al mismo precio por unidad?", "opciones": ["15 €", "12 €", "30 €"], "correcta": 0, "tema": "Proporcionalidad directa", "recomendacion": "tabla" },
+    { "pregunta": "¿Cuánto es el 25 % de 80?", "opciones": ["15", "20", "25"], "correcta": 1, "tema": "Porcentajes", "recomendacion": "porcentaje" },
+    { "pregunta": "Un artículo de 60 € tiene un descuento del 10 %. ¿Cuánto se paga?", "opciones": ["50 €", "54 €", "56 €"], "correcta": 1, "tema": "Aumentos y descuentos", "recomendacion": "aumentos-descuentos" }
+  ] },
+  { "bloqueId": "algebra", "items": [
+    { "id": "alg-1", "nivel": 1, "tema": "Lenguaje algebraico", "enunciado": "Escribe con una expresión: el doble de un número x más 3.", "solucion": "El doble de x es 2x; al sumar 3 queda 2x + 3." },
+    { "id": "alg-2", "nivel": 2, "tema": "Reducir términos semejantes", "enunciado": "Simplifica: 3a + 4 − a + 2.", "solucion": "Agrupa términos semejantes: 3a − a = 2a y 4 + 2 = 6. Resultado: 2a + 6." },
+    { "id": "alg-3", "nivel": 3, "tema": "Ecuaciones", "enunciado": "Resuelve y comprueba: 3x + 2 = 17.", "solucion": "Resta 2: 3x = 15. Divide entre 3: x = 5. Comprobación: 3 × 5 + 2 = 17." }
+  ], "autoevaluacion": [
+    { "pregunta": "¿Qué expresión representa el doble de x más 3?", "opciones": ["x + 6", "2(x + 3)", "2x + 3"], "correcta": 2, "tema": "Lenguaje algebraico", "recomendacion": "lenguaje" },
+    { "pregunta": "¿En qué se simplifica 3a + 4 − a + 2?", "opciones": ["2a + 6", "2a + 2", "4a + 6"], "correcta": 0, "tema": "Simplificar expresiones", "recomendacion": "expresiones" },
+    { "pregunta": "¿Cuál es la solución de 3x + 2 = 17?", "opciones": ["3", "5", "7"], "correcta": 1, "tema": "Ecuaciones", "recomendacion": "ecuaciones" }
+  ] },
+  { "bloqueId": "geometria", "items": [
+    { "id": "geo-1", "nivel": 1, "tema": "Ángulos de un triángulo", "enunciado": "Dos ángulos de un triángulo miden 45° y 65°. ¿Cuánto mide el tercero?", "solucion": "Los ángulos suman 180°: 180° − 45° − 65° = 70°." },
+    { "id": "geo-2", "nivel": 2, "tema": "Perímetro", "enunciado": "Calcula el perímetro de un triángulo de lados 5 cm, 6 cm y 7 cm.", "solucion": "Suma sus lados: 5 + 6 + 7 = 18 cm." },
+    { "id": "geo-3", "nivel": 3, "tema": "Área de un triángulo", "enunciado": "Un triángulo tiene base 10 cm y altura 6 cm. ¿Cuál es su área?", "solucion": "Área = base × altura : 2 = 10 × 6 : 2 = 30 cm²." }
+  ], "autoevaluacion": [
+    { "pregunta": "Un triángulo tiene ángulos de 50° y 60°. ¿Cuánto mide el tercero?", "opciones": ["60°", "70°", "80°"], "correcta": 1, "tema": "Ángulos de un triángulo", "recomendacion": "triangulos" },
+    { "pregunta": "¿Cuál es el perímetro de un rectángulo de lados 8 cm y 3 cm?", "opciones": ["11 cm", "22 cm", "24 cm"], "correcta": 1, "tema": "Perímetro", "recomendacion": "perimetro" },
+    { "pregunta": "¿Cuál es el área de un triángulo de base 10 cm y altura 6 cm?", "opciones": ["16 cm²", "30 cm²", "60 cm²"], "correcta": 1, "tema": "Área de un triángulo", "recomendacion": "area-triangulo" }
+  ] },
+  { "bloqueId": "funciones", "items": [
+    { "id": "fun-1", "nivel": 1, "tema": "Coordenadas cartesianas", "enunciado": "¿Qué punto está 2 unidades a la izquierda y 3 hacia arriba del origen?", "solucion": "Primero se escribe la coordenada horizontal y después la vertical: (−2, 3)." },
+    { "id": "fun-2", "nivel": 2, "tema": "Tabla de valores", "enunciado": "Una relación sigue la regla y = 2x. ¿Qué valor de y corresponde a x = 4?", "solucion": "Sustituye x por 4: y = 2 × 4 = 8." },
+    { "id": "fun-3", "nivel": 3, "tema": "Interpretar gráficas", "enunciado": "En una gráfica distancia-tiempo aparece el punto (2, 6). ¿Qué significa si x son horas e y son kilómetros?", "solucion": "A las 2 horas se han recorrido 6 kilómetros." }
+  ], "autoevaluacion": [
+    { "pregunta": "¿Cómo se escribe el punto 2 a la izquierda y 3 hacia arriba del origen?", "opciones": ["(−2, 3)", "(3, −2)", "(2, −3)"], "correcta": 0, "tema": "Coordenadas", "recomendacion": "coordenadas" },
+    { "pregunta": "Si y = 3x, ¿qué valor tiene y cuando x = 4?", "opciones": ["7", "12", "34"], "correcta": 1, "tema": "Tablas de valores", "recomendacion": "tablas" },
+    { "pregunta": "En una gráfica distancia-tiempo, ¿qué representa el punto (2, 6)?", "opciones": ["6 km en 2 horas", "2 km en 6 horas", "6 km en 6 horas"], "correcta": 0, "tema": "Interpretar gráficas", "recomendacion": "interpretar" }
+  ] },
+  { "bloqueId": "estadistica", "items": [
+    { "id": "est-1", "nivel": 1, "tema": "Frecuencias", "enunciado": "En los datos 2, 2, 3, 4, 4, 4, ¿cuál es la frecuencia del 4?", "solucion": "El 4 aparece tres veces, así que su frecuencia es 3." },
+    { "id": "est-2", "nivel": 2, "tema": "Media", "enunciado": "Calcula la media de 4, 6 y 8.", "solucion": "(4 + 6 + 8) : 3 = 18 : 3 = 6." },
+    { "id": "est-3", "nivel": 3, "tema": "Probabilidad", "enunciado": "Se lanza un dado normal. ¿Cuál es la probabilidad de obtener un número impar?", "solucion": "Hay 3 resultados impares entre 6 posibles: 3 : 6 = 1/2." }
+  ], "autoevaluacion": [
+    { "pregunta": "¿Cuántas veces aparece el 4 en 2, 2, 3, 4, 4, 4?", "opciones": ["2", "3", "4"], "correcta": 1, "tema": "Frecuencias", "recomendacion": "tablas-frecuencia" },
+    { "pregunta": "¿Cuál es la mediana de 2, 4 y 7?", "opciones": ["2", "4", "7"], "correcta": 1, "tema": "Mediana", "recomendacion": "mediana-moda" },
+    { "pregunta": "Al lanzar un dado, ¿cuál es la probabilidad de sacar un número par?", "opciones": ["1/6", "1/2", "2/3"], "correcta": 1, "tema": "Probabilidad", "recomendacion": "probabilidad" }
+  ] }
+]

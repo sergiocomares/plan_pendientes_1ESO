@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f7f1">
+  <meta name="description" content="Un camino claro para preparar la recuperación de Matemáticas de 1.º ESO.">
+  <title>Matemáticas 1.º ESO | Plan de recuperación</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/responsive.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script defer src="js/progreso.js"></script>
+  <script defer src="js/bloques.js"></script>
+  <script defer src="js/ejercicios.js"></script>
+  <script defer src="js/buscador.js"></script>
+  <script defer src="js/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
+  <div class="app-shell">
+    <aside class="sidebar" aria-label="Navegación principal">
+      <a class="brand" href="#/" aria-label="Inicio del plan de recuperación">
+        <img class="brand-logo" src="assets/img/logo-centro.png.png" alt="IES Marqués de Comares">
+        <span class="brand-copy"><strong>Mate en marcha</strong><small>PLAN DE RECUPERACIÓN</small></span>
+      </a>
+      <nav class="main-nav">
+        <a href="#/" data-nav="home"><span aria-hidden="true">⌂</span> Mi plan</a>
+        <a href="#/pendiente" data-nav="pending"><span aria-hidden="true">◷</span> Lo que me falta</a>
+        <a href="#/organiza" data-nav="schedule"><span aria-hidden="true">▦</span> Organiza tu estudio</a>
+      </nav>
+      <div class="sidebar-note">
+        <span class="note-icon" aria-hidden="true">✳</span>
+        <p><strong>Un paso cada vez.</strong><br>Tu siguiente tarea siempre está a mano.</p>
+      </div>
+      <div class="sidebar-foot">MATEMÁTICAS · 1.º ESO</div>
+    </aside>
+
+    <div class="workspace">
+      <header class="topbar">
+        <div class="breadcrumb" id="breadcrumb">TU ESPACIO <span>/</span> MI PLAN</div>
+        <form class="search" id="search-form" role="search">
+          <label class="sr-only" for="search-input">¿Qué necesitas repasar?</label>
+          <span aria-hidden="true">⌕</span>
+          <input id="search-input" type="search" placeholder="¿Qué necesitas repasar?" autocomplete="off">
+          <kbd>/</kbd>
+        </form>
+        <a class="avatar" href="#/pendiente" aria-label="Ver tu progreso">YO</a>
+      </header>
+      <main id="contenido" tabindex="-1" aria-live="polite">
+        <div class="loading-state">Preparando tu plan…</div>
+      </main>
+      <footer class="app-footer"><span>Tu plan se guarda en este dispositivo.</span><button type="button" class="text-button" id="reset-progress">Borrar mi progreso</button></footer>
+    </div>
+  </div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

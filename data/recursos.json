@@ -1,0 +1,9 @@
+[
+  { "bloqueId": "naturales", "items": [] },
+  { "bloqueId": "divisibilidad", "items": [] },
+  { "bloqueId": "enteros", "items": [] },
+  { "bloqueId": "fracciones", "items": [
+    { "id": "fracciones-interactiva", "titulo": "Practica con fracciones", "descripcion": "Añade aquí una actividad interactiva HTML publicada por el profesor en GitHub Pages.", "url": "", "tipo": "actividad-interactiva" },
+    { "id": "fracciones-ficha", "titulo": "Ficha de refuerzo", "descripcion": "Enlace pendiente para una ficha PDF o una colección de ejercicios.", "url": "", "tipo": "ficha-pdf" }
+  ] }
+]

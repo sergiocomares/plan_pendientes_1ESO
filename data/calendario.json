@@ -1,0 +1,11 @@
+{
+  "semanas": [
+    { "titulo": "Semana 1", "contenido": "Números naturales y divisibilidad", "bloqueId": "naturales" },
+    { "titulo": "Semana 2", "contenido": "Números enteros", "bloqueId": "enteros" },
+    { "titulo": "Semana 3", "contenido": "Fracciones", "bloqueId": "fracciones" },
+    { "titulo": "Semana 4", "contenido": "Decimales y porcentajes", "bloqueId": "decimales" },
+    { "titulo": "Semana 5", "contenido": "Álgebra", "bloqueId": "algebra" },
+    { "titulo": "Semana 6", "contenido": "Geometría", "bloqueId": "geometria" },
+    { "titulo": "Semana 7", "contenido": "Repaso general", "bloqueId": "" }
+  ]
+}
