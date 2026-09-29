@@ -76,6 +76,9 @@ h3 { margin-bottom: 7px; font-size: 17px; }
 .hero-link { display: inline-flex; align-items: center; gap: 9px; padding: 11px 15px; color: var(--green-dark); background: #f3cf69; border-radius: 4px; text-decoration: none; font-weight: 700; transition: transform .18s, background .18s; }
 .hero-link:hover { background: #ffda72; transform: translateY(-2px); }
 .hero-mark { align-self: center; justify-self: center; position: relative; z-index: 1; display: grid; place-items: center; width: min(210px, 100%); aspect-ratio: 1; color: #f5d56f; border: 1px solid rgba(255,255,255,.4); border-radius: 50%; font: 500 104px var(--heading); transform: rotate(-12deg); }
+.construction-notice { display: flex; align-items: center; gap: 10px; margin-top: 13px; padding: 11px 14px; color: #576052; background: #fff8dc; border: 1px solid #eadb9d; border-left: 3px solid #d4a72c; border-radius: 4px; font-size: 12px; }
+.construction-notice span { color: #a77a11; font-size: 17px; }
+.construction-notice p { margin: 0; }
 .progress-panel { display: grid; grid-template-columns: 1fr auto; gap: 8px 20px; align-items: center; margin-top: 21px; padding: 19px 21px; background: white; border: 1px solid var(--line); border-radius: 5px; }
 .progress-copy strong { display: block; font: 700 14px var(--heading); }
 .progress-copy span { color: var(--muted); font-size: 12px; }
